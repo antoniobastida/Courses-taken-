@@ -25,7 +25,6 @@ General courses:
 Theoretical physics: 
   - Electrodynamics: 9 credits UW
   - Quantum physics: 7 credits UW
-  - Solid state physics: 6 credits UGR
   - Statistical mechanics: 9 credits UW
   - Thermodynamics: 12 credits UGR
   - Classical mechanics and waves: 12 credits UGR
@@ -36,21 +35,30 @@ Theoretical physics:
   - Advanced quantum information theory: 5 credits UH (in progress)
   - Open quantum systems: 10 credits UH (in progress)
   
-Applied physics:
+Applied physics/Experimental/Engineering physics:
   - Electronic circuits: 6 credits UGR
   - Semiconductor theory: 6 credits UGR
   - Atomic and molecular physics: 6 credits UGR
   - Atmospherical physics: 6 credits UGR
   - Computational physics: 6 credits UGR
+  - Advanced computational physics: 5 credits UA (planned before summer)
   - Complex systems: 6 credits UGR
   - Nanoelectronics: 6 credits UGR
   - DFT: 5 credits UA (in progress)
   - Quantum machine learning: 5 credits UA (in progress)
   - Machine learning applied to material science: 3 credits UA 
   - Bachelor's thesis: The quantum random walker on algorithm optimization
+  - Superconductivity: 5 credits UA (planned before summer)
+  - Advanced physics laboratory: 5 credits UA (planned before summer)
+  - Solid state physics: 6 credits UGR
+  - Advanced solid state physics : 5 credits UA (planned before summer)
+  - Microwave engineering: 5 credits UA (planned before summer)
+  - Practical quantum computing: 5 credits UA (planned before summer)
  
  Computer science:
   - High performance computing theory: 3 credits UW
+  - Programming parallel computers: 5 credits UA (planned before summer)
+  - Computational complexity theory: 5 credits UA (planned before summer)
   - Image processing and data visualization: 4 credits UW
   - Virtualization: 3 credits UW
   - Machine learning introduction: 3 credits UGR
