@@ -32,7 +32,7 @@ Theoretical physics:
   - Quantum mechanics: 9 credits UW 
   - Optics: 6 credits UW
   - Quantum information theory: 6 credits UGR
-  - Quantum information theory B (mainly error correction): 5 credits UH 
+  - Quantum information theory B (mainly quantum error correction and quantum information theory): 5 credits UH 
   - Open quantum systems: 10 credits UH 
   
 Applied physics/Experimental/Engineering physics:
@@ -53,10 +53,10 @@ Applied physics/Experimental/Engineering physics:
   - Solid state physics: 6 credits UGR
   - Advanced solid state physics : 5 credits UA (planned before summer)
   - Practical quantum computing: 5 credits UA (planned before summer)
+  - Quantum circuits: 5 credits UA (planned before summer)
  
  Computer science:
   - High performance computing theory: 3 credits UW
-  - Lattice based cryptography : 5 credits UA (In progress)
   - Computational complexity theory: 5 credits UA (In progress)
   - Image processing and data visualization: 4 credits UW
   - Virtualization: 3 credits UW
